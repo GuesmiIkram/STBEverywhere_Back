@@ -1,0 +1,9 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "STBEverywhere_Back_SharedModels",
+    "version": "1.0"
+  },
+  "paths": { },
+  "components": { }
+}
